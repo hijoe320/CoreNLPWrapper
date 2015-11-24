@@ -1,4 +1,4 @@
-# CoreNLP_JPype_Wrapper
+# CoreNLPWrapper
 A JPype based Wrapper for Stanford CoreNLP
 
 # Prerequisites
